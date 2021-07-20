@@ -11,6 +11,23 @@
     "ejs": "~2.6.1",
     "express": "~4.16.1",
     "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
-  }
+    "morgan": "~1.9.1",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.12",
+    "sequelize": "^6.6.5"
+  },
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wilsonmfreire/BarbeariaC3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wilsonmfreire/BarbeariaC3/issues"
+  },
+  "homepage": "https://github.com/Wilsonmfreire/BarbeariaC3#readme",
+  "keywords": [],
+  "description": ""
 }
